@@ -8,9 +8,11 @@ export default function Main() {
   const [state, dispatch] = useImmerReducer(reducer, initialState);
 
   return (
-    <Window>
-      <CardArray state={state} dispatch={dispatch} />
-      <Scoreboard>{`Jogadas: ${state.tries}`}</Scoreboard>
-    </Window>
+    <>
+      <Window>
+        <CardArray state={state} dispatch={dispatch} />
+        <Scoreboard>{`Jogadas: ${state.tries}`}</Scoreboard>
+      </Window>
+    </>
   );
 }
