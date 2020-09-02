@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/memorymatch/static/js/main.bc66bdd6.chunk.js",
-    "main.js.map": "/memorymatch/static/js/main.bc66bdd6.chunk.js.map",
-    "runtime-main.js": "/memorymatch/static/js/runtime-main.fd8a6462.js",
-    "runtime-main.js.map": "/memorymatch/static/js/runtime-main.fd8a6462.js.map",
-    "static/js/2.f3356a3b.chunk.js": "/memorymatch/static/js/2.f3356a3b.chunk.js",
-    "static/js/2.f3356a3b.chunk.js.map": "/memorymatch/static/js/2.f3356a3b.chunk.js.map",
-    "index.html": "/memorymatch/index.html",
-    "precache-manifest.4c42a0dc40e3ce2565b528f97a269320.js": "/memorymatch/precache-manifest.4c42a0dc40e3ce2565b528f97a269320.js",
-    "service-worker.js": "/memorymatch/service-worker.js",
-    "static/js/2.f3356a3b.chunk.js.LICENSE.txt": "/memorymatch/static/js/2.f3356a3b.chunk.js.LICENSE.txt"
+    "main.js": "/memorytech/static/js/main.d6bb1c2b.chunk.js",
+    "main.js.map": "/memorytech/static/js/main.d6bb1c2b.chunk.js.map",
+    "runtime-main.js": "/memorytech/static/js/runtime-main.587fa64b.js",
+    "runtime-main.js.map": "/memorytech/static/js/runtime-main.587fa64b.js.map",
+    "static/js/2.08a035d2.chunk.js": "/memorytech/static/js/2.08a035d2.chunk.js",
+    "static/js/2.08a035d2.chunk.js.map": "/memorytech/static/js/2.08a035d2.chunk.js.map",
+    "index.html": "/memorytech/index.html",
+    "precache-manifest.2cd52431d55920bdf40c5348c0deb721.js": "/memorytech/precache-manifest.2cd52431d55920bdf40c5348c0deb721.js",
+    "service-worker.js": "/memorytech/service-worker.js",
+    "static/js/2.08a035d2.chunk.js.LICENSE.txt": "/memorytech/static/js/2.08a035d2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd8a6462.js",
-    "static/js/2.f3356a3b.chunk.js",
-    "static/js/main.bc66bdd6.chunk.js"
+    "static/js/runtime-main.587fa64b.js",
+    "static/js/2.08a035d2.chunk.js",
+    "static/js/main.d6bb1c2b.chunk.js"
   ]
 }

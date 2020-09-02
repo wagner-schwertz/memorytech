@@ -1,6 +1,6 @@
 {
   "homepage": "http://wagner-schwertz.github.io/memorytech",
-  "name": "memory-game",
+  "name": "memorytech",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
