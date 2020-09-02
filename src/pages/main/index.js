@@ -10,9 +10,7 @@ export default function Main() {
   return (
     <Window>
       <CardArray state={state} dispatch={dispatch} />
-      <Scoreboard>
-        <div>{`Tentativas: ${state.tries}`}</div>
-      </Scoreboard>
+      <Scoreboard>{`Jogadas: ${state.tries}`}</Scoreboard>
     </Window>
   );
 }

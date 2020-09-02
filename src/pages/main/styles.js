@@ -1,33 +1,26 @@
 import styled from "styled-components";
 
 export const Window = styled.div`
-  margin: 0px;
-  padding: 0px;
-  width: 100vw;
-  height: 100vh;
+  margin: auto;
+  margin-top: calc((100vh - min(100vw, 100vh)) / 2);
+  width: min(100vw, 100vh);
+  height: min(100vw, 100vh);
   display: flex;
+  flex-direction: column;
   font-family: Arial, Helvetica, sans-serif;
   justify-content: center;
   align-items: center;
 `;
 
 export const Scoreboard = styled.div`
-  margin: 0;
+  margin-top: 4px;
   padding: 0;
   background-color: #e0e0e0;
   display: flex;
   width: 200px;
-  height: 100px;
+  height: 50px;
   flex-direction: column;
-
-  div {
-    flex: 1;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 16px;
-    padding: 16px;
-    font-size: 20px;
-    color: gray;
-  }
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
 `;
