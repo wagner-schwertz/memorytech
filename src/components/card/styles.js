@@ -1,9 +1,8 @@
 import styled from "styled-components";
 
 export const CardFront = styled.div`
-  margin: 4px;
-  min-width: 100px;
-  min-height: 100px;
+  width: 100%;
+  height: 100%;
   display: flex;
   background-color: #e0e0e0;
   border: 1px solid #e0e0e0;
@@ -15,9 +14,8 @@ export const CardFront = styled.div`
 `;
 
 export const CardBack = styled.div`
-  margin: 4px;
-  min-width: 100px;
-  min-height: 100px;
+  width: 100%;
+  height: 100%;
   display: flex;
   background-color: #e0e0e0;
   border: 1px solid #e0e0e0;

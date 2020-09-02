@@ -1,39 +1,39 @@
 export const cardLogo = [
-  "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR.svg",
+  "https://cdn.worldvectorlogo.com/logos/react-2.svg",
 
-  "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020.svg",
+  "https://cdn.worldvectorlogo.com/logos/redux.svg",
 
-  "https://s.glbimg.com/es/sde/f/organizacoes/2018/03/10/atletico-mg.svg",
+  "https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg",
 
-  "https://s.glbimg.com/es/sde/f/organizacoes/2018/03/11/bahia.svg",
+  "https://cdn.worldvectorlogo.com/logos/vue-9.svg",
 
-  "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-svg.svg",
+  "https://cdn.worldvectorlogo.com/logos/javascript.svg",
 
-  "https://s.glbimg.com/es/sde/f/organizacoes/2019/12/30/svg.svg",
+  "https://cdn.worldvectorlogo.com/logos/css-5.svg",
 
-  "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara.svg",
+  "https://cdn.worldvectorlogo.com/logos/html-5.svg",
 
-  "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians.svg",
+  "https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg",
 
-  "https://s.glbimg.com/es/sde/f/organizacoes/2018/03/11/coritiba.svg",
+  "https://cdn.worldvectorlogo.com/logos/java-14.svg",
 
-  "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/10/Flamengo-2018.svg",
+  "https://cdn.worldvectorlogo.com/logos/spring-3.svg",
 
-  "https://s.glbimg.com/es/sde/f/organizacoes/2018/03/11/fluminense.svg",
+  "https://cdn.worldvectorlogo.com/logos/jenkins-1.svg",
 
-  "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/optimised.svg",
+  "https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg",
 
-  "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_SVG.svg",
+  "https://cdn.worldvectorlogo.com/logos/material-ui-1.svg",
 
-  "https://s.glbimg.com/es/sde/f/organizacoes/2018/03/12/gremio.svg",
+  "https://cdn.worldvectorlogo.com/logos/momentjs.svg",
 
-  "https://s.glbimg.com/es/sde/f/organizacoes/2018/03/11/internacional.svg",
+  "https://cdn.worldvectorlogo.com/logos/lodash.svg",
 
-  "https://s.glbimg.com/es/sde/f/organizacoes/2019/07/06/Palmeiras.svg",
+  "https://cdn.worldvectorlogo.com/logos/gatsby.svg",
 
-  "https://s.glbimg.com/es/sde/f/organizacoes/2018/03/12/santos.svg",
+  "https://cdn.worldvectorlogo.com/logos/graphql.svg",
 
-  "https://s.glbimg.com/es/sde/f/organizacoes/2018/03/11/sao-paulo.svg",
+  "https://cdn.worldvectorlogo.com/logos/typescript.svg",
 
-  "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR.svg",
+  "https://cdn.worldvectorlogo.com/logos/mongodb.svg",
 ];
